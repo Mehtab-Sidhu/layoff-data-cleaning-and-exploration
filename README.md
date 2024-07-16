@@ -16,7 +16,7 @@ This repository documents a project exploring a dataset of global layoffs. The p
    - Investigating temporal patterns in layoffs (e.g., seasonal trends).
    - Exploring other relevant factors contributing to layoffs (if available in the data).
 
-## 3. Tools:
+## Tools:
 
 - MySQL
 - SQL
